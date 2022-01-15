@@ -1,0 +1,45 @@
+.start{
+    border: 2px solid gray;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+
+}
+.container{
+    margin-top: 10%;
+    
+}
+.cal{
+    display: none;
+}
+.qbtn{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.qbtn1{
+    background-color: slateblue;
+}
+.qbtn2{
+    background-color: lightsalmon;
+
+}
+.qbtn3{
+    background-color: orange;
+}
+.newpage{
+    padding: 200px;
+}
+.start1{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
