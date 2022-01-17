@@ -4,24 +4,22 @@
     align-items: center;
     display: flex;
     padding: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px grey;
 
 }
 .container{
-    margin-top: 10%;
+    padding: 200px;
     
 }
 .cal{
     display: none;
 }
 .qbtn{
-    margin: 0 20px;
     color: white;
     padding: 20px;
     border-radius: 10px;
+    min-width: 150px;
 
 }
 .qbtn1{
@@ -35,11 +33,17 @@
     background-color: orange;
 }
 .newpage{
-    padding: 200px;
+    padding: 100px;
 }
 .start1{
     margin-top: 50px;
     padding: 40px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px grey;
+}
+.body{
+    padding: 200px;
+}
+.col1{
+    min-width: fit-content;
 }
